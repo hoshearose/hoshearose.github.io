@@ -1,0 +1,803 @@
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+/*<meta />*/
+
+/*<meta sourceDocument="C:\Users\Sarit\Documents\IncrediBuild - Linux UG\IncrediBuild - Linux UG - draft2 - TEST for OLH -3.docx" />*/
+
+p
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	margin-top: 0pt;
+	font-size: 11pt;
+	padding: 0px 0px 3px;
+	margin-left: 0pt;
+	line-height: 18pt;
+	margin-right: 24pt;
+	margin-bottom: 18pt;
+	padding-bottom: 0pt;
+}
+
+ol
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 11pt;
+	margin-left: 0pt;
+}
+
+ul
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin: 0px;
+	font-size: 11pt;
+	margin-left: 0pt;
+}
+
+li
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	margin-top: 0pt;
+	font-size: 11pt;
+	line-height: 16pt;
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+	margin-right: 24pt;
+}
+
+td
+{
+	page-break-inside: avoid;
+	margin-left: 108pt;
+	font-family: Verdana;
+	vertical-align: top;
+	font-size: 11pt;
+	border-collapse: collapse;
+}
+
+p.TOC1
+{
+	page-break-inside: avoid;
+	background-color: #153153;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	font-family: Arial;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 12pt;
+}
+
+p.TOC2
+{
+	font-size: 9pt;
+	margin-bottom: 2pt;
+	font-family: Verdana;
+}
+
+p.TOC3
+{
+	font-size: 9pt;
+	margin-bottom: 2pt;
+	margin-left: 18pt;
+	font-family: Verdana;
+}
+
+p.TOC4
+{
+	font-size: 9pt;
+	margin-bottom: 2pt;
+	margin-left: 36pt;
+	font-family: Verdana;
+}
+
+p.ListContinue
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-left: 126pt;
+	font-family: Verdana;
+}
+
+p.ListBullet
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	font-family: Verdana;
+}
+
+li.ListBullet
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	line-height: 16pt;
+	margin-bottom: 12pt;
+	list-style-type: square;
+	margin-left: -16pt;
+	margin-top: -3pt;
+	margin-right: 18pt;
+}
+
+p.Note
+{
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	font-family: Verdana;
+	font-size: 11pt;
+	margin-left: 0pt;
+	margin-bottom: 12pt;
+}
+
+p.ListBullet_1
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	font-family: Verdana;
+	list-style-type: square;
+	margin: 0;
+	margin-left: 4pt;
+}
+
+p.ListNumber
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	page-break-after: avoid;
+	font-family: Verdana;
+}
+
+li.ListNumber
+{
+	page-break-inside: avoid;
+	margin-top: 6pt;
+	page-break-after: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	margin-left: -16px;
+}
+
+li.ListBullet3
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	font-family: Verdana;
+}
+
+span.CodeInline_1
+{
+	font-family: Consolas;
+	font-size: 12pt;
+	background: #dcdcdc;
+	display: block;
+	border: solid 1px #000000;
+}
+
+li.ListBullet2_1
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	font-family: Verdana;
+	list-style-type: square;
+}
+
+MadCap|xref.PageNumberOnly
+{
+	mc-format: '{page}';
+}
+
+p.Important
+{
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	font-family: Verdana;
+	margin-left: 0pt;
+	font-size: 11pt;
+	border-radius: 4px;
+	color: #000000;
+	padding: 6pt;
+	border-bottom-width: 1pt;
+	border-left-width: 1pt;
+	border-right-width: 1pt;
+	border-top-width: 1pt;
+	border: solid 1pt #faed16;
+	background: #fffff0;
+}
+
+a.Hyperlink
+{
+	color: #336699;
+	text-decoration: underline;
+}
+
+li.ProcedureSubHeading
+{
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+p.ListNote2
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-left: 144pt;
+	font-family: Verdana;
+}
+
+MadCap|xref.ParaTextOnly
+{
+	mc-format: '{paratext}';
+}
+
+p.ListBullet_2
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	font-family: Consolas;
+}
+
+p.ListNote
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-left: 126pt;
+	font-family: Verdana;
+}
+
+span.CodeInline_2
+{
+	font-family: Consolas;
+	display: block;
+	border-bottom-left-radius: 4px;
+	border-bottom-length: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-color: #000000;
+	border-radius: 4px;
+	background: #f5f5f5;
+	border-color: #000000;
+	margin-left: 12px;
+	padding: 6px;
+	border: solid 1px #d3d3d3;
+	margin-bottom: 12px;
+}
+
+p.ListBullet_3
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	font-family: Arial;
+	color: #222222;
+}
+
+p.ListBullet_4
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	font-family: Verdana;
+	margin-bottom: 6pt;
+}
+
+p.TableHeading
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+	margin-left: 0pt;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+p.TableBodyText
+{
+	page-break-inside: avoid;
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+	margin-left: 0pt;
+	font-family: Verdana;
+	font-size: 11pt;
+}
+
+p.TableListBullet
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-bottom: 3pt;
+	font-family: Verdana;
+}
+
+li.TableListBullet
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-bottom: 3pt;
+	font-family: Verdana;
+}
+
+td.td_1
+{
+	background-color: #auto;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: black;
+}
+
+td.td_2
+{
+	background-color: #auto;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: black;
+}
+
+p.TableListBullet_1
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-bottom: 3pt;
+	font-family: Verdana;
+	list-style-type: square;
+}
+
+li.TableListBullet_1
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-bottom: 3pt;
+	font-family: Verdana;
+	margin-left: 21pt;
+	list-style-type: square;
+}
+
+table.table_1
+{
+	margin-left: 108pt;
+	border-collapse: collapse;
+}
+
+p.TableListBullet_2
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-bottom: 3pt;
+	font-family: 'Times New Roman';
+}
+
+li.TableListBullet_2
+{
+	page-break-inside: avoid;
+	font-size: 10pt;
+	margin-top: 6pt;
+	margin-bottom: 3pt;
+	margin-left: 21pt;
+	font-family: 'Times New Roman';
+}
+
+h1
+{
+	font-family: Verdana;
+	font-size: 20pt;
+	color: #d3377f;
+}
+
+h2
+{
+	color: #d3377f;
+	font-family: Verdana;
+	font-size: 16pt;
+}
+
+h3
+{
+	color: #d3377f;
+	font-size: 14pt;
+	font-family: Verdana;
+	margin-top: 12px;
+}
+
+p.Procedure_SubHeading
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-left: 0pt;
+	list-style-position: inside;
+	font-weight: bold;
+	margin-top: 6pt;
+	margin-bottom: 3pt;
+}
+
+p.Code_Inline_1
+{
+	page-break-inside: avoid;
+	margin-top: 0pt;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	font-family: Consolas;
+	margin-left: 0pt;
+	padding: 6pt;
+	border: solid 1pt #dcdcdc;
+	border-top-left-radius: 4pt;
+	border-top-right-radius: 4pt;
+	border-radius: 4px;
+	background: #f5f5f5;
+	line-height: 22pt;
+}
+
+code
+{
+	font-family: Consolas;
+	font-size: 11pt;
+}
+
+li.ListPicture_Number_1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	margin-top: 0pt;
+	font-size: 11pt;
+	line-height: 16pt;
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+}
+
+li.ListContinue_Number1
+{
+	page-break-inside: avoid;
+	page-break-after: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	margin-left: 0pt;
+	margin-top: -6pt;
+}
+
+li.ListNumber1_Bullet1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	line-height: 16pt;
+	margin-bottom: 12pt;
+	list-style-type: square;
+	padding-left: 0px;
+	margin-top: 0pt;
+	margin-left: 14pt;
+}
+
+h4
+{
+	color: #d3377f;
+	font-family: Verdana;
+	font-size: 12pt;
+}
+
+p.ListContinue_Number1_Bullet1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	margin-top: 0pt;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-left: 46pt;
+}
+
+p.Picture
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-left: 0pt;
+	margin-top: -6pt;
+}
+
+p.ListNote_Number1_Bullet1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	margin-top: 0pt;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-left: 46pt;
+}
+
+li.ListNumber1_Bullet2
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	line-height: 16pt;
+	margin-bottom: 12pt;
+	list-style-type: square;
+	padding-left: -10px;
+	margin-top: 6pt;
+	margin-left: 38pt;
+}
+
+MadCap|breadcrumbsProxy
+{
+	font-family: Verdana;
+	mc-breadcrumbs-count: 4;
+	mc-breadcrumbs-prefix: 'IncrediBuild Linux>';
+	font-size: 9pt;
+	border-bottom-color: #f5e918;
+	color: #000000;
+}
+
+p.Code_Inline_2
+{
+	page-break-inside: avoid;
+	font-size: 11pt;
+	font-family: Consolas;
+	margin: 0px;
+	mc-leader-indent: 0px;
+	margin-bottom: 18pt;
+	background: #f5f5f5;
+	line-height: 22pt;
+	padding: 6pt;
+	border-bottom-left-radius: 4pt;
+	border: solid 1pt #d3d3d3;
+	border-radius: 4pt;
+	margin-left: 30pt;
+	margin-top: -6pt;
+	margin-right: 24pt;
+}
+
+li.ListBullet1_Bullet1
+{
+	page-break-inside: avoid;
+	margin-top: 6pt;
+	font-family: Verdana;
+	list-style-type: square;
+	font-size: 11pt;
+	margin-left: 22pt;
+}
+
+p.ListPicture_Number1_Bullet1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-top: -6pt;
+	margin-left: 46pt;
+}
+
+li.ListBullet1_Bullet2
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	line-height: 16pt;
+	margin-bottom: 12pt;
+	list-style-type: square;
+	padding-left: -10px;
+	margin-top: 6pt;
+	margin-left: 38pt;
+}
+
+li.ListNumber1
+{
+	page-break-inside: avoid;
+	margin-top: 6pt;
+	page-break-after: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+}
+
+p.Code_Inline_3
+{
+	page-break-inside: avoid;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #A6A6A6;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: #A6A6A6;
+	border-bottom-width: 1pt;
+	border-bottom-color: #A6A6A6;
+	border-right-style: solid;
+	border-right-color: #A6A6A6;
+	background-color: #F2F2F2;
+	font-family: Consolas;
+	font-size: 12pt;
+	background-size: 4px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-right-width: 0pt;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px 0px;
+	border-radius: 5px;
+	border: solid 1px #beb9b9;
+	padding: 10px;
+	margin-top: -3pt;
+	margin-left: 44pt;
+	margin-right: 24pt;
+}
+
+p.ListPicture_Number1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	margin-top: 0pt;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-left: 30pt;
+}
+
+li.ListBullet1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	list-style-type: square;
+	font-size: 11pt;
+	margin-top: -9pt;
+	margin-bottom: 18pt;
+	margin-left: 0pt;
+}
+
+li.ListBullet2
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	list-style-type: square;
+	font-size: 11pt;
+	margin-top: -9pt;
+	margin-bottom: 18pt;
+	margin-left: 0pt;
+}
+
+p.ListContinue_Number1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-left: 30pt;
+	margin-top: 0pt;
+}
+
+p.ListContinue_Bullet1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	margin-bottom: 12pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-top: -6pt;
+	margin-left: 30pt;
+}
+
+td.Table_Heading
+{
+	page-break-inside: avoid;
+	margin-left: 108pt;
+	font-family: Verdana;
+	vertical-align: top;
+	font-size: 11pt;
+	font-weight: bold;
+	padding: 4pt;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	border: solid 1px #000000;
+	line-height: 12pt;
+}
+
+td.Body
+{
+	page-break-inside: avoid;
+	margin-left: 108pt;
+	font-family: Verdana;
+	vertical-align: top;
+	font-size: 11pt;
+	margin-bottom: 6pt;
+	margin-top: 6pt;
+	padding: 4pt;
+	line-height: 18pt;
+	border: solid 0px #000000;
+	border-right-color: #000000;
+	border-right-length: 1pt;
+}
+
+td.List_Bullet
+{
+	page-break-inside: avoid;
+	margin-left: 108pt;
+	font-family: Verdana;
+	vertical-align: top;
+	font-size: 11pt;
+	margin-bottom: 6pt;
+	margin-top: 6pt;
+	padding: 4pt;
+	line-height: 18pt;
+}
+
+p.ListNote_Number1
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	padding: 0px 0px 3px;
+	line-height: 14pt;
+	margin-top: -6pt;
+	margin-bottom: 6pt;
+	margin-left: 30pt;
+}
+
+li.ListNumber1_Bullet1_Bullet2
+{
+	page-break-inside: avoid;
+	font-family: Verdana;
+	font-size: 11pt;
+	line-height: 16pt;
+	margin-bottom: 12pt;
+	list-style-type: square;
+	padding-left: 0px;
+	margin-top: 0pt;
+	margin-left: 30pt;
+}
+
+code.Code_Emphasis
+{
+	font-family: Consolas;
+	font-size: 11pt;
+	background: #f5f5f5;
+	font-weight: bold;
+}
+
+hr
+{
+	color: #ffff00;
+}
+

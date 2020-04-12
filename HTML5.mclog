@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 r2 Generated HTML5.fltar" Date="2020-02-09T16:01:31.7429492+02:00">
+    <Messages>Publishing target HTML5...
+Connecting...
+Downloading log ...
+Uploading changed files...
+Uploading Skins/Fluid/Stylesheets/Styles.css... succeeded.
+Uploading Resources/Scripts/require.config.js... succeeded.
+Uploading Data/SearchStem_Chunk9.js... succeeded.
+Uploading Data/SearchStem_Chunk8.js... succeeded.
+Uploading Data/SearchStem_Chunk7.js... succeeded.
+Uploading Data/SearchStem_Chunk6.js... succeeded.
+Uploading Data/SearchStem_Chunk5.js... succeeded.
+Uploading Data/SearchStem_Chunk4.js... succeeded.
+Uploading Data/SearchStem_Chunk3.js... succeeded.
+Uploading Data/SearchStem_Chunk2.js... succeeded.
+Uploading Data/SearchStem_Chunk13.js... succeeded.
+Uploading Data/SearchStem_Chunk12.js... succeeded.
+Uploading Data/SearchStem_Chunk11.js... succeeded.
+Uploading Data/SearchStem_Chunk10.js... succeeded.
+Uploading Data/SearchStem_Chunk1.js... succeeded.
+Uploading Data/SearchStem_Chunk0.js... succeeded.
+Uploading Data/SearchPhrase_Chunk1.js... succeeded.
+Uploading Data/SearchPhrase_Chunk0.js... succeeded.
+Uploading Data/Search.js... succeeded.
+Uploading Data/HelpSystem.xml... succeeded.
+Uploading Data/HelpSystem.js... succeeded.
+Uploading Content/Resources/TableStyles/Rows.css... succeeded.
+Uploading Content/Upgrading_IncrediBuild_Linux.htm... succeeded.
+Uploading Content/Uninstalling_IncrediBuild_Linux.htm... succeeded.
+Uploading Content/Understanding_the_Installation_Process_of_IncrediBuild_Linux.htm... succeeded.
+Uploading Content/Search.htm... succeeded.
+Uploading Content/Optional_Installation_Parameters.htm... succeeded.
+Uploading Content/Obtaining_the_Installer_File_of_IncrediBuild_Linux.htm... succeeded.
+Uploading Content/Mandatory_Installation_Parameters.htm... succeeded.
+Uploading Content/Installing_the_Coordinator.htm... succeeded.
+Uploading Content/Installing_Initiator_Agents.htm... succeeded.
+Uploading Content/Installing_IncrediBuild_Linux_Components.htm... succeeded.
+Uploading Content/Installing_IncrediBuild_Linux.htm... succeeded.
+Uploading Content/Installing_Helper_Agents.htm... succeeded.
+Uploading Content/Installing_Additional_Agents.htm... succeeded.
+Uploading Content/Installation_Commands.htm... succeeded.
+Uploading Content/Checking_the_Status_and_Version_No__of_the_Installed_IncrediBuild_Components.htm... succeeded.
+Uploading Content/Automatic Upgrade for Versions Older than 0.94.87.htm... succeeded.
+Uploading Content/Automatic Upgrade for Version 0.94.87 and Up.htm... succeeded.
+Uploading Default.mcwebhelp... succeeded.
+Uploading Content/Resources/Images/Installation - Checking Status.png... succeeded.
+Uploading Content/Resources/Images/Installation - Installer File verification.png... succeeded.
+Uploading Content/Resources/Stylesheets/IncrediBuild - Linux UG - TEST.css... succeeded.
+Removing old files...
+Removing Content/Resources/Stylesheets/IncrediBuild - Linux UG - draft2 - TEST for OLH -3.css
+Removing Content/Resources/Procedure SubHeading Arrow.png
+Uploading log ...
+Publish complete.
+Saving log to "C:\Users\Sarit\Documents\IncrediBuild OLH\OLH Trial Project\IncrediBuild Linux - OLH - Trial Project\Output\Sarit\HTML5\HTML5.mclog"
+</Messages>
+    <Warnings />
+    <Errors />
+</MadCapLog>
